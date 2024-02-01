@@ -1,0 +1,52 @@
+.body_background 
+{
+    background-color: rgb(136, 77, 255);
+    background-position: center;
+    background-size: cover;
+}
+#myCanvas
+{
+    border-width:10px;
+    background-color: rgb(212, 199, 255); 
+    border-style:ridge;
+	border-color: rgb(84, 52, 143);
+}
+
+h2
+{
+	border-radius: 10px;
+	width: 1700px;
+	padding: 5px;
+}
+h3
+{
+	display: inline-block;
+}
+span
+{
+	color: black;	
+}
+a
+{
+	text-decoration: none;
+	font-size: 20px;
+	padding: 10px;
+    float: left;
+    border-radius: 10px;
+}
+#head_info
+{
+	width: 600px;
+	border-radius: 10px;
+	margin-bottom: 10px;
+	background-color: rgb(118, 27, 255);
+	color: rgb(255, 255, 255);
+}
+#current_width
+{
+	color: white;
+}
+#current_height
+{
+	color: white;
+}
